@@ -1,1 +1,1 @@
-# c24-Livia-project
+# project-C24-template
